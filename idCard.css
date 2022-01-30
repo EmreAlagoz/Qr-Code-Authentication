@@ -71,8 +71,8 @@
 }
 .barcode img
 {
-    height: 65px;
-    width: 65px;
+    height: 150px;
+    width: 150px;
     text-align: center;
     margin: 5px;
 }
